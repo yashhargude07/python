@@ -1,7 +1,6 @@
 letter = '''Dear <|NAME|>
-Greeting from ABC coding hourse
+    Greeting from ABC coding hourse
 You are Selected
-
 Date. <|DATE|>'''
 
 name=input("Enter your name :")
