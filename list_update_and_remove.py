@@ -1,3 +1,6 @@
+''' Write a Python program to accept n numbers in list and remove duplicates from a 
+list. '''
+
 def Remove(duplicate): 
     final_list = [] 
     for num in duplicate: 
